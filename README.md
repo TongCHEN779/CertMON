@@ -1,5 +1,5 @@
 # Semialgebraic Representation of Monotone Deep Equilibrium Models and Applications to Certification
-This repository is the code for paper [Semialgebraic Representation of Monotone Deep Equilibrium Models and Applications to Certification](https://proceedings.neurips.cc/paper/2021/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf). For more information, contact me: tchen@laas.fr.
+This repository is the code for paper [Semialgebraic Representation of Monotone Deep Equilibrium Models and Applications to Certification](https://proceedings.neurips.cc/paper/2021/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf). For more information, contact me: toch@di.ku.dk.
 
 ## Description of files
 *params_ellips* is a folder containing all the parameters of ellipsoids in different cases;
